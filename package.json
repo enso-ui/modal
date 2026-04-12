@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/modal",
-  "version": "3.2.2",
+  "version": "3.2.3",
   "description": "A simple Modal",
   "main": "src/bulma/Modal.vue",
   "repository": {
