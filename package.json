@@ -1,7 +1,7 @@
 {
   "name": "@enso-ui/modal",
   "version": "3.2.3",
-  "description": "A simple Modal",
+  "description": "Modal and modal-card components for Enso UI",
   "main": "src/bulma/Modal.vue",
   "repository": {
     "type": "git",
